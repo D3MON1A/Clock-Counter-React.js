@@ -17,7 +17,7 @@ const Counter = properties => {
 	}
 
 	return (
-		<h1 className="d-flex">
+		<h1 className="d-flex container bigCounter bg-gray">
 			<div className="Clock">
 				<i className="far fa-clock" />
 			</div>
